@@ -19,3 +19,9 @@ Welcome to an interactive Tableau dashboard that delves deep into the real estat
 - **Views and Condition Heat Map**: Analyze a heat map that illustrates the impact of property views and overall condition. Understand how these factors contribute to the desirability and market value of homes.
 
 This interactive dashboard is designed to give you a clear and detailed understanding of the King County real estate market. Use it to uncover trends, identify key factors influencing property features and prices, and make well-informed decisions in your real estate ventures.
+
+## Dashboard
+
+[![King County Real Estate Analysis](https://public.tableau.com/static/images/YO/your_dashboard_name/1.png)](https://public.tableau.com/views/KingCountyHouseSales_17160755360280/KingCountyHouseSales?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
+Click on the image above to interact with the dashboard on Tableau Public.
